@@ -10,11 +10,9 @@ Tuition fees are listed below and are based on the assigned group that your chil
 
 Each student will be need to pay a tuition fee each semester.  All tuition fees are due on or before October 1 and February 1.
 
-High School 	$65 per student* / each semester
+Trebel Choir - $45/semester
 
-Middle School 	$55 per student* / each semester
-
-Elementary School 	$45 per student* / each semester
+Concert Choir - $65/semester
 
 **For families with multiple children, we will discount the tuition for their assigned choir/grade by $10 for each additional child.**
 
