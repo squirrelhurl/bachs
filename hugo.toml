@@ -1,7 +1,7 @@
 baseURL = 'https://squirrelhurl.github.io/bachs/'
 languageCode = 'en-us'
 title = 'Bachs'
-theme = 'rusty-typewriter'
+theme = 'https://github.com/math-queiroz/rusty-typewriter'
 
 [rusty_typewriter]
  [params.rtwt]
