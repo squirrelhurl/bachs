@@ -15,3 +15,5 @@ https://knapp.builders/
 ! [knapp logo][def]
 
 [def]: /knapp.jpg
+/knapp.jpg
+(/knapp.jpg)
